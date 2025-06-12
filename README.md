@@ -1,6 +1,6 @@
-# React + Vite Weather Dashboard 🌦️
+# React + Vite Weather App 🌦️
 
-A modern weather dashboard built with **React**, **Redux**, **Vite**, and **Tailwind CSS**. Instantly view current weather conditions for major cities, edit city names, paginate results, and download weather reports as PDFs.
+A modern weather app built with **React**, **Redux**, **Vite**, and **Tailwind CSS**. Instantly view current weather conditions for major cities, edit city names, paginate results, and download weather reports as PDFs.
 
 ## Features
 
