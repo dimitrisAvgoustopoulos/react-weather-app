@@ -38,3 +38,6 @@ Start the server
 ```bash
   npm run dev
 ```
+
+## 🌍Check Online
+Check it out and give it a try: [React Weather App](https://react-weather-app-beta-tawny.vercel.app//) 
